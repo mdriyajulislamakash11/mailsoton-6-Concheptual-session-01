@@ -19,6 +19,8 @@ console.log(mult);
  1 + 2 = 3
  3 + 3 = 6
  6 + 4 = 10
+
+ result: 10
 */
 
 const reduce = number.reduce((preve, current) => preve + current, 0);
