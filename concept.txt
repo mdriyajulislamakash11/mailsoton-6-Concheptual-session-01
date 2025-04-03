@@ -1,0 +1,13 @@
+// ----- core conchept ----- \\
+Introduction To ES6
+1. var let const
+2. scopes im javascript
+3. templets string
+4. ternary oparetor
+5. Array spreading
+6. object accesssing
+7. object spreading
+8. optional chainning of object
+9. function with default paremieterss
+10. arrow function 
+11. Array  forEach,map,filter,find function
